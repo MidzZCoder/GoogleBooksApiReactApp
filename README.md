@@ -1,6 +1,6 @@
 $$ Google Books Search Using React
 
-Check out the live app by [clicking here]().
+Check out the live app by [clicking here](https://midz-googlebooks-api-react-app.herokuapp.com/).
 
 This application uses the Google Books API to search for Google Books. The react based then lets you either view the book or save it as your favorite. 
 
